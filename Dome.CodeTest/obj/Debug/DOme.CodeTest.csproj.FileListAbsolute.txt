@@ -1,0 +1,10 @@
+C:\Users\Truc\Desktop\Asos.CodeTest\Dome.CodeTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.dll
+C:\Users\Truc\Desktop\Asos.CodeTest\Dome.CodeTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.pdb
+C:\Users\Truc\Desktop\Asos.CodeTest\Dome.CodeTest\Dome.CodeTest\obj\Debug\DOme.CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\Truc\Desktop\Asos.CodeTest\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.dll
+C:\Users\Truc\Desktop\Asos.CodeTest\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.pdb
+C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.dll
+C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.pdb
+C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.dll
+C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.pdb

@@ -1,5 +1,6 @@
 ﻿using Airborne;
 using Dome.CodeTest.DataAccess;
+using Dome.CodeTest.Models;
 using Dome.CodeTest.Rules;
 
 namespace Dome.CodeTest.Services

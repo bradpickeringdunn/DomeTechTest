@@ -1,4 +1,6 @@
-﻿namespace Dome.CodeTest.DataAccess
+﻿using Dome.CodeTest.Models;
+
+namespace Dome.CodeTest.DataAccess
 {
     public class FailoverSnagDataAccess : IFailoverSnagDataAccess
     {

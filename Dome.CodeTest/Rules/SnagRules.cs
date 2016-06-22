@@ -1,8 +1,7 @@
 ﻿using Airborne;
+using Dome.CodeTest.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Dome.CodeTest.Rules
 {

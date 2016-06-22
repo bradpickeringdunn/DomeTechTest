@@ -1,4 +1,4 @@
-﻿namespace Dome.CodeTest
+﻿namespace Dome.CodeTest.Models
 {
     public class Snag
     {

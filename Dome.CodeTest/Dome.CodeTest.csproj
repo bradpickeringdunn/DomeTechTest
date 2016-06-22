@@ -51,12 +51,12 @@
     <Compile Include="Services\ArchivedDataService.cs" />
     <Compile Include="Services\IArchivedDataService.cs" />
     <Compile Include="Services\ISnagService.cs" />
-    <Compile Include="Snag.cs" />
+    <Compile Include="Models\Snag.cs" />
     <Compile Include="DataAccess\SnagDataAccess.cs" />
-    <Compile Include="SnagResponse.cs" />
+    <Compile Include="Models\SnagResponse.cs" />
     <Compile Include="Services\SnagService.cs" />
     <Compile Include="DataAccess\FailoverSnagDataAccess.cs" />
-    <Compile Include="FailoverEntry.cs" />
+    <Compile Include="Models\FailoverEntry.cs" />
     <Compile Include="DataAccess\FailoverRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

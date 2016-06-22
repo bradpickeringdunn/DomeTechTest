@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Dome.CodeTest.Models;
+using System.Collections.Generic;
 
 namespace Dome.CodeTest.DataAccess
 {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dome.CodeTest
+namespace Dome.CodeTest.Models
 {
     public class FailoverEntry
     {

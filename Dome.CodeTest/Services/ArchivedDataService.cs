@@ -1,4 +1,6 @@
-﻿namespace Dome.CodeTest.Services
+﻿using Dome.CodeTest.Models;
+
+namespace Dome.CodeTest.Services
 {
     public class ArchivedDataService : IArchivedDataService
     {

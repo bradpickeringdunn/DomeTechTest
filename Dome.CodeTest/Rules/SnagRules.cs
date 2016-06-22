@@ -10,7 +10,7 @@ namespace Dome.CodeTest.Rules
     {
         public static bool InFailoverMode(List<FailoverEntry> failoverEntries)
         {
-            Guard.ArgumentNotNull(failoverEntries, "failoverEntries")
+            Guard.ArgumentNotNull(failoverEntries, "failoverEntries");
 
             var failedRequests = 0;
 

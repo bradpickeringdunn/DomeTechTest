@@ -1,6 +1,6 @@
-﻿namespace Dome.CodeTest
+﻿namespace Dome.CodeTest.Services
 {
-    public class ArchivedDataService
+    public class ArchivedDataService : IArchivedDataService
     {
         public Snag GetArchivedSnag(int snagId)
         {

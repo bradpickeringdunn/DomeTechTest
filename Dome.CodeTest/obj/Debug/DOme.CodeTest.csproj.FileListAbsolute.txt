@@ -8,3 +8,8 @@ C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\bin\
 C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.csprojResolveAssemblyReference.cache
 C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.dll
 C:\Users\Truc\OneDrive\Documents\Dome Interview\Dome.CodeTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest\bin\Debug\Dome.CodeTest.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest\obj\Debug\Dome.CodeTest.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest\bin\Debug\Airborne.dll

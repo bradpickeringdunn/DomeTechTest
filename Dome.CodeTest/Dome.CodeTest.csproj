@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Airborne">
+      <HintPath>..\Libraries\Airborne.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -40,16 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArchivedDataService.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="DataAccess\IFailoverRepository.cs" />
+    <Compile Include="DataAccess\IFailoverSnagDataAccess.cs" />
+    <Compile Include="DataAccess\ISnagDataAccess.cs" />
+    <Compile Include="Rules\SnagRules.cs" />
+    <Compile Include="Services\ArchivedDataService.cs" />
+    <Compile Include="Services\IArchivedDataService.cs" />
+    <Compile Include="Services\ISnagService.cs" />
     <Compile Include="Snag.cs" />
-    <Compile Include="SnagDataAccess.cs" />
+    <Compile Include="DataAccess\SnagDataAccess.cs" />
     <Compile Include="SnagResponse.cs" />
-    <Compile Include="SnagService.cs" />
-    <Compile Include="FailoverSnagDataAccess.cs" />
+    <Compile Include="Services\SnagService.cs" />
+    <Compile Include="DataAccess\FailoverSnagDataAccess.cs" />
     <Compile Include="FailoverEntry.cs" />
-    <Compile Include="FailoverRepository.cs" />
+    <Compile Include="DataAccess\FailoverRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

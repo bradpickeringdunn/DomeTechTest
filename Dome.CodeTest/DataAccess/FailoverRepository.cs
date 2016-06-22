@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Dome.CodeTest
+namespace Dome.CodeTest.DataAccess
 {
     public class FailoverRepository
     {

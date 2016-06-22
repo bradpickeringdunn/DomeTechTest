@@ -1,0 +1,13 @@
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Dome.CodeTest.Tests.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Dome.CodeTest.Tests.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Dome.CodeTest.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Dome.CodeTest.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\obj\Debug\Dome.CodeTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\obj\Debug\Dome.CodeTest.Tests.dll
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\obj\Debug\Dome.CodeTest.Tests.pdb
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Dome.CodeTest.Tests.dll.config
+C:\Users\Brad\Source\Repos\DomeTechTest\Dome.CodeTest.Tests\bin\Debug\Airborne.dll

@@ -1,6 +1,6 @@
-﻿namespace Dome.CodeTest
+﻿namespace Dome.CodeTest.DataAccess
 {
-    public class SnagDataAccess
+    public class SnagDataAccess : ISnagDataAccess
     {
         public SnagResponse LoadSnag(int snagId)
         {
